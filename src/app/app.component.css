@@ -1,0 +1,9 @@
+.containerAll {
+  display: flex;
+}
+.shared-sidebar {
+  width: 20%;
+}
+.gifs-home-page {
+  width: 80%;
+}
